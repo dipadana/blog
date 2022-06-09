@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  font-weight: bold;
+  justify-content: space-between;
+  margin: 35px 0px 35px 35px;
+  /* padding-left: 35px; */
+}
+
+.header-title {
+  color: rgb(0, 153, 94);
+}
+
+nav {
+  display: flex;
+}
+
+nav p:hover {
+  color: rgb(0, 153, 94);
+  cursor: pointer;
+}
+
+nav p:first-child {
+  margin-right: 25px;
+}

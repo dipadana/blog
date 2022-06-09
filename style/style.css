@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import "normalize.css";
+@import "header.css";
+@import "aside.css";
+@import "article.css";
+@import "footer.css";
+
+body {
+  background-color: #f9fbff;
+  font-family: "Roboto", sans-serif;
+  margin: auto;
+  max-width: 900px;
+  width: 90%;
+}
+
+p {
+  color: #06080f;
+  margin: 0;
+}
