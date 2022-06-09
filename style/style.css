@@ -3,6 +3,7 @@
 @import "header.css";
 @import "aside.css";
 @import "article.css";
+@import "article-detail.css";
 @import "footer.css";
 
 body {

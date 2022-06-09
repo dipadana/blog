@@ -2,8 +2,7 @@ header {
   display: flex;
   font-weight: bold;
   justify-content: space-between;
-  margin: 35px 0px 35px 35px;
-  /* padding-left: 35px; */
+  margin: 35px 0;
 }
 
 .header-title {

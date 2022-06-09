@@ -1,15 +1,11 @@
 article {
-  padding: 15px 20px 15px 35px;
+  padding: 15px 35px 15px 0px;
   cursor: pointer;
   margin-bottom: 30px;
 }
 
 .content article:last-child {
   margin-bottom: 0;
-}
-
-article:hover {
-  background-color: aliceblue;
 }
 
 main {
@@ -30,6 +26,10 @@ main {
   font-weight: bold;
   line-height: 1.3;
   margin: 0 0 8px;
+}
+
+article:hover .article-title {
+  text-decoration: underline;
 }
 
 .article-date {
