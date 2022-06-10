@@ -5,15 +5,21 @@ header {
   margin: 35px 0;
 }
 
-.header-title {
+.header-title a {
   color: rgb(0, 153, 94);
+  text-decoration: none;
 }
 
 nav {
   display: flex;
 }
 
-nav p:hover {
+nav p a {
+  color: inherit;
+  text-decoration: none;
+}
+
+nav p:hover a {
   color: rgb(0, 153, 94);
   cursor: pointer;
 }

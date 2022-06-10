@@ -1,5 +1,4 @@
 .article-detail {
-  cursor: pointer;
   display: flex;
   flex-direction: column;
   margin-bottom: 30px;
